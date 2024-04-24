@@ -1,0 +1,9 @@
+tun_ip:10.0.0.2
+local_ip:192.168.72.143
+local_port:1234
+dest_ip:192.168.72.144
+dest_port:1234
+real_dev_name:ens33
+tun_name:tun0
+server
+sign_up
