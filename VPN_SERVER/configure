@@ -1,0 +1,5 @@
+private_net:10.0.0.1/24
+address_pool:192.168.71.1/24
+tcp_listen_port:1234
+tcp_listen_ip:192.168.72.140
+tun_name:my_tun
